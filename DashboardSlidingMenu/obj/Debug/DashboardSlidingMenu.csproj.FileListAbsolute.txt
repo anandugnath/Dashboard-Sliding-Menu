@@ -34,3 +34,23 @@ G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidin
 G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmLogin.resources
 G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.Properties.Resources.resources
 G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.GenerateResource.Cache
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe.config
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.pdb
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\MetroFramework.Design.dll
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\MetroFramework.dll
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\MetroFramework.Fonts.dll
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.dll
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.xml
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.AssemblyReference.cache
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.BBaseForm.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmBase.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMDepartments.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMEmployees.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmLogin.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.Properties.Resources.resources
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.GenerateResource.cache
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.CoreCompileInputs.cache
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.CopyComplete
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.exe
+G:\SOFTWARE CODE\DEMO APP\Dashboard-Sliding-Menu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.pdb
